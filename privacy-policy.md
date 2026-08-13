@@ -1,116 +1,72 @@
 # Privacy Policy for Invest in Yourself
 
-**Last Updated: February 2, 2026**
+**Last Updated: August 12, 2026**
 
-## Introduction
+Invest in Yourself ("we," "our," or "us") provides a habit-tracking application that turns personal progress into fictional motivational portfolio values. This policy explains the information processed when you use the application.
 
-Invest in Yourself ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+## Information We Process
 
-Please read this privacy policy carefully. By using the app, you agree to the collection and use of information in accordance with this policy.
+### Information you provide
 
-## Information We Collect
+- **Account and profile information:** Email address, display name, ticker symbol, friend code, optional mission statement, optional biography, and settings.
+- **Habit and progress information:** Habit names, categories, schedules, values, completions, commitments, streaks, achievements, reminders, penalties, and fictional portfolio history.
+- **Social information:** Friend requests and relationships, circles and memberships, privacy choices, blocked accounts, and reports submitted through social safety tools.
+- **Support communications:** Information you include when contacting support.
 
-### Information You Provide
+### Information processed automatically
 
-- **Account Information**: When you create an account, we collect your email address, display name, and a custom ticker symbol you choose to represent yourself.
-- **Profile Information**: Optional information such as your mission statement, about me section, and profile picture.
-- **Habit Data**: The habits you create, track, and complete within the app, including habit names, values, completion timestamps, and associated categories.
-- **Portfolio Data**: Your investment categories, earnings, and portfolio value history.
+- **Subscription information:** Product identifier, entitlement status, purchase and expiration status, and a pseudonymous application user identifier. Apple processes payment credentials; we do not receive your full card or bank information.
+- **Notification information:** Notification permission state and, if enabled, an Expo push token used to deliver notifications.
+- **Diagnostics:** App version, device model, operating-system version, error details, performance information, and related technical context collected through Sentry when crash reporting is configured.
+- **Security and authentication information:** Session, authentication, security, fraud-prevention, and service logs processed by our providers.
 
-### Information Collected Automatically
+Face ID or other biometric matching is performed by your device. We receive only whether device authentication succeeded; we do not receive or store your biometric data.
 
-- **Usage Data**: Information about how you interact with the app, including features used and time spent.
-- **Device Information**: Device type, operating system version, and unique device identifiers.
-- **Analytics Data**: Anonymized crash reports and performance metrics to improve app stability.
+## How We Use Information
 
-## How We Use Your Information
+We process information to create and secure accounts; provide habit tracking, charts, achievements, reminders, friends, and circles; determine subscription access; deliver account and optional push messages; respond to support and privacy requests; investigate reports and prevent abuse; diagnose errors; and comply with applicable legal obligations.
 
-We use the information we collect to:
+We do not sell personal information or use it for third-party behavioral advertising.
 
-- Provide, maintain, and improve our services
-- Create and manage your account
-- Track your habits and calculate your portfolio value
-- Send you notifications related to your habit tracking (if enabled)
-- Process subscription payments
-- Respond to your comments, questions, and requests
-- Monitor and analyze usage patterns and trends
-- Detect, prevent, and address technical issues
+## Service Providers
 
-## Data Storage and Security
+- **Supabase:** Authentication, database, server functions, and transactional authentication email.
+- **RevenueCat:** Subscription entitlement and purchase-status management.
+- **Apple:** App distribution, in-app purchase processing, device services, and push-notification delivery.
+- **Expo:** Application build and optional push-notification delivery.
+- **Sentry:** Crash, performance, and diagnostic monitoring.
+- **Email delivery and automation providers:** Account, welcome, security, and service email delivery where configured.
 
-Your data is stored securely using **Supabase**, a trusted backend-as-a-service provider. We implement appropriate technical and organizational security measures to protect your personal information, including:
+These providers process information under their own terms and privacy notices. Information may also be disclosed when required by law, to protect rights or safety, or in connection with a business transaction subject to appropriate safeguards.
 
-- Encrypted data transmission (HTTPS/TLS)
-- Secure authentication with row-level security
-- Regular security updates and monitoring
+## Data Retention and Account Deletion
 
-## Third-Party Services
+We retain active account data while the account is open and as reasonably necessary to provide and secure the service. **Settings → Account → Delete Account** permanently removes the Supabase authentication identity, associated active application records, and the corresponding RevenueCat customer record. This action cannot be undone.
 
-We use the following third-party services:
+Deleting the application account does not cancel an Apple subscription. Users should manage or cancel Apple billing in Apple subscription settings. Apple and other processors may retain purchase, fraud-prevention, security, legal, or backup records under their own policies or as required by law.
 
-### Supabase
-- **Purpose**: Database storage, authentication, and backend services
-- **Data Shared**: Account information, habit data, portfolio data
-- **Privacy Policy**: https://supabase.com/privacy
+## Your Choices and Rights
 
-### RevenueCat
-- **Purpose**: Subscription and in-app purchase management
-- **Data Shared**: Purchase history, subscription status, anonymous user identifiers
-- **Privacy Policy**: https://www.revenuecat.com/privacy
+The application allows users to update profile and privacy settings, disable optional reminders and notifications, export available account data, report or block social users, and delete the account. Depending on location and applicable law, users may also have rights to access, correct, delete, restrict, object to processing of, or obtain a portable copy of personal information. We may need to verify identity before fulfilling a request.
 
-### Apple (App Store)
-- **Purpose**: App distribution, payment processing for subscriptions
-- **Data Shared**: As required for App Store services
-- **Privacy Policy**: https://www.apple.com/legal/privacy/
+## Security
 
-### Sentry (if applicable)
-- **Purpose**: Error tracking and crash reporting
-- **Data Shared**: Anonymized crash reports, device information
-- **Privacy Policy**: https://sentry.io/privacy/
+We use safeguards including encrypted network transport, authentication, row-level database access controls, encrypted session storage, server-owned subscription status, optional device authentication, and operational monitoring. No system can guarantee absolute security.
 
-## Data Retention
+## International Processing
 
-We retain your personal information for as long as your account is active or as needed to provide you services. You can request deletion of your account and associated data at any time through the app settings.
-
-When you delete your account:
-- All personal data is permanently removed from our servers
-- Habit history and portfolio data are deleted
-- This action cannot be undone
-
-## Your Rights and Choices
-
-You have the right to:
-
-- **Access**: Request a copy of your personal data
-- **Correction**: Update or correct your personal information
-- **Deletion**: Delete your account and all associated data
-- **Opt-out**: Disable notifications and optional data collection
-- **Data Portability**: Export your habit and portfolio data
-
-To exercise these rights, use the settings within the app or contact us at the email below.
+Our providers may process information in the United States and other countries. Where required, cross-border processing must use appropriate legal safeguards.
 
 ## Children's Privacy
 
-Our app is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information.
+The application is not directed to children under 13, and we do not knowingly collect personal information from children under 13. Contact us if you believe a child provided personal information so we can investigate and take appropriate action.
 
-## Changes to This Privacy Policy
+## Changes
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes.
+We may update this policy as the application or legal requirements change. We will post the revised policy and update the date above. Material changes will be communicated when required.
 
-## California Privacy Rights
+## Contact
 
-If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information we collect and the right to request deletion of your data.
+Questions or privacy requests can be sent to **info@boutiquedigitalmarketing.com**.
 
-## International Users
-
-If you are accessing our app from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
-
-**Email**: privacy@investinyourself.app
-
----
-
-*This privacy policy is effective as of February 2, 2026.*
+This policy is intended to describe the application's current data practices. Applicable privacy rights vary by jurisdiction.
