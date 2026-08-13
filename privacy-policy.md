@@ -41,7 +41,7 @@ These providers process information under their own terms and privacy notices. I
 
 ## Data Retention and Account Deletion
 
-We retain active account data while the account is open and as reasonably necessary to provide and secure the service. **Settings → Account → Delete Account** permanently removes the Supabase authentication identity, associated active application records, and the corresponding RevenueCat customer record. This action cannot be undone.
+We retain active account data while the account is open and as reasonably necessary to provide and secure the service. **Settings → Data & Privacy → Delete Account** permanently removes the Supabase authentication identity, associated active application records, and the corresponding RevenueCat customer record. This action cannot be undone.
 
 Deleting the application account does not cancel an Apple subscription. Users should manage or cancel Apple billing in Apple subscription settings. Apple and other processors may retain purchase, fraud-prevention, security, legal, or backup records under their own policies or as required by law.
 

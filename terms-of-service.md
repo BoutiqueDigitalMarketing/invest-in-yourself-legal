@@ -30,7 +30,7 @@ We donate 10% of our profits to charitable organizations that expand access to e
 
 ## Account Deletion and Termination
 
-You may delete your account through **Settings → Account → Delete Account**. Deletion is permanent and cannot be undone. We may suspend or terminate access for material violations of these terms, threats to safety or security, fraud, unlawful activity, or where necessary to protect the service.
+You may delete your account through **Settings → Data & Privacy → Delete Account**. Deletion is permanent and cannot be undone. We may suspend or terminate access for material violations of these terms, threats to safety or security, fraud, unlawful activity, or where necessary to protect the service.
 
 ## Intellectual Property
 
