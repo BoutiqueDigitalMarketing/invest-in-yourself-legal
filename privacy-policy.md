@@ -17,7 +17,7 @@ Invest in Yourself ("we," "our," or "us") provides a habit-tracking application 
 
 - **Subscription information:** Product identifier, entitlement status, purchase and expiration status, and a pseudonymous application user identifier. Apple processes payment credentials; we do not receive your full card or bank information.
 - **Notification information:** Notification permission state and, if enabled, an Expo push token used to deliver notifications.
-- **Diagnostics:** App version, device model, operating-system version, error details, performance information, and related technical context collected through Sentry when crash reporting is configured.
+- **Diagnostics:** App version, device model, operating-system version, error details, performance information, and related technical context collected through Sentry when crash reporting is configured. Diagnostics may be linked to your account ID. We do not intentionally attach your email address to diagnostic reports and filter common credentials and sensitive fields before transmission. This filtering does not make all diagnostics anonymous.
 - **Security and authentication information:** Session, authentication, security, fraud-prevention, and service logs processed by our providers.
 
 Face ID or other biometric matching is performed by your device. We receive only whether device authentication succeeded; we do not receive or store your biometric data.
@@ -41,7 +41,7 @@ These providers process information under their own terms and privacy notices. I
 
 ## Data Retention and Account Deletion
 
-We retain active account data while the account is open and as reasonably necessary to provide and secure the service. **Settings → Data & Privacy → Delete Account** permanently removes the Supabase authentication identity, associated active application records, and the corresponding RevenueCat customer record. This action cannot be undone.
+We retain active account data while the account is open and as reasonably necessary to provide and secure the service. **Settings → Data & Privacy → Delete Account** removes the Supabase authentication identity and associated active application records. We also request removal of the corresponding RevenueCat customer record. If that provider is unavailable, a restricted cleanup record is retained so removal can be retried; the application reports when that cleanup is pending. Deleting your application account cannot be undone.
 
 Deleting the application account does not cancel an Apple subscription. Users should manage or cancel Apple billing in Apple subscription settings. Apple and other processors may retain purchase, fraud-prevention, security, legal, or backup records under their own policies or as required by law.
 
